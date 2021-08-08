@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> to make it public
+Project created by <a href="https://youtube.com/channel/UCVFnpjFoi1ojPCdrBUY8dsQ">CYBER UDAYIPP</a> to make it public
     <br>
        | © |
         Reserved |
@@ -33,7 +33,7 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G90s1pqZwAjJ7SjQzzqiXe)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HeNuSLi77dH3vwfhhDDJFX)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia
+$ git clone https://github.com/CYBERUDAYIPP/Sophia
 $ cd sophia
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia
+$ git clone https://github.com/CYBERUDAYIPP/Sophia
 $ cd sophia
 $ chmod +x *
 $ npm i
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/Hisham-Muhammed/Sophia).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
+  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/CYBERUDAYIPP/Sophia).png?size=100)](https://i.imgur.com/KbE2Nce.jpeg) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://i.imgur.com/KbE2Nce.jpeg)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
